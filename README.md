@@ -1,6 +1,6 @@
-### Eai, tranquilo?
+### Seja bem-vindo!
 
-- 🔭 Hoje trabalho como Instrutor de cursos de tecnologia
+- 🔭 Hoje trabalho como Instrutor de cursos de tecnologia na Microlins, atuando diretamente em sala de aula.
 - 🌱 Estudando React
 - 📩 Email: gabrieldotech@gmail.com
 -->
