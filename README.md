@@ -1,4 +1,4 @@
-### Eai, eu sou o Gabriel Ramos 🤠
+### Eai, tranquilo?
 
 - 🔭 Hoje trabalho como Instrutor de cursos de tecnologia
 - 🌱 Estudando React
