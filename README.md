@@ -1,7 +1,7 @@
 ### Seja bem-vindo!
 
 - 🔭 Hoje trabalho como Instrutor de cursos de tecnologia na Microlins, atuando diretamente em sala de aula.
-- 👨‍💻 Apaixonado por tecnologia e matemática
+- 👨‍💻 Apaixonado por tecnologia
 - 🌱 Estudando React
 - 📩 Email: gabrieldotech@gmail.com
 -->
