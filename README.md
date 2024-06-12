@@ -1,4 +1,4 @@
-### Seja bem-vindo
+### Seja bem-vindo!
 
 - 🔭 Hoje trabalho como Instrutor de cursos de tecnologia na Microlins, atuando diretamente em sala de aula.
 - 👨‍💻 Apaixonado por tecnologia
