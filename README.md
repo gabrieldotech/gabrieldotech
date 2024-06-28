@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho como Instrutor de cursos de tecnologia na Microlins, atuando diretamente em sala de aula.
 - 👨‍💻 Apaixonado por tecnologia
 - 🌱 Estudando React
-- 📩 Email: gabrieldotech@gmail.com
 </p>
   <div style="display: inline_block"><br>
   <img align="center" alt="gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
