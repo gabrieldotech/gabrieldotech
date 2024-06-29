@@ -1,6 +1,6 @@
 ### Seja bem-vindo!
 
-- 🔭 Hoje trabalho como Instrutor de cursos de tecnologia na Microlins, atuando diretamente em sala de aula.
+- 🔭 Hoje trabalho como Instrutor de cursos de tecnologia na Microlins, atuando diretamente em sala de aula
 - 👨‍💻 Apaixonado por tecnologia
 - 🌱 Estudando e me especializando em React e TypeScript
 </p>
