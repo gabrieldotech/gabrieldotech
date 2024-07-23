@@ -3,14 +3,10 @@
 - 🔭 Hoje trabalho como Instrutor de cursos de tecnologia na Microlins, atuando diretamente em sala de aula
 - 👨‍💻 Apaixonado por tecnologia
 - 🌱 Estudando e me especializando em React e TypeScript
-
 ##
-
 <div style="display: flex; justify-content: space-between; gap: 20px;">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldotech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldotech&layout=compact&langs_count=6&theme=algolia" />
-
-
 </div>
 
 <p>
