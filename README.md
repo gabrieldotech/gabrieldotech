@@ -1,6 +1,6 @@
 ## <h1>Olá, eu sou o Gabriel 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ongabrielramos/)](https://www.linkedin.com/in/ongabrielramos/) [![Gmail Badge](https://img.shields.io/badge/-gabrieldotech@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieldotech@gmail.com)](mailto:seuemail@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ongabrielramos/)](https://www.linkedin.com/in/ongabrielramos/) [![Gmail Badge](https://img.shields.io/badge/-gabrieldotech@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=gabrieldotech@gmail.com)](gabrieldotech@gmail.com)
 
 <p align="left">
 🤓 Desenvolvedor apaixonado por tecnologia e atuando como Instrutor de Informática. Sempre busco as melhores práticas para desenvolver projetos e melhorar a experiências dos meus alunos
