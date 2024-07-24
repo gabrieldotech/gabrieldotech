@@ -6,6 +6,8 @@
 🤓 Desenvolvedor apaixonado por tecnologia e atuando como Instrutor de Informática. Sempre busco as melhores práticas para desenvolver projetos e melhorar a experiências dos meus alunos.
 
   🌱 Atualmente estudando: React e TypeScript
+
+  
   
 </p>
 
