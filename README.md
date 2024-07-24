@@ -1,26 +1,36 @@
-### <h1>Eai👋, Seja bem vindo!</h1>
+## Olá, eu sou o Gabriel 👋
 
-- 🔭 Hoje trabalho como Instrutor de cursos de tecnologia na Microlins, atuando diretamente em sala de aula
-- 👨‍💻 Apaixonado por tecnologia
-- 🌱 Estudando e me especializando em React e TypeScript
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ongabrielramos/)](https://www.linkedin.com/in/ongabrielramos/) [![Gmail Badge](https://img.shields.io/badge/-gabrieldotech@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieldotech@gmail.com)](mailto:seuemail@gmail.com)
 
-##
+<p align="left">
+🤓 Desenvolvedor apaixonado por tecnologia e atuando como Instrutor de Informática. Sempre busco as melhores práticas para desenvolver projetos e melhorar a experiências dos meus alunos.
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldotech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldotech&layout=compact&langs_count=6&theme=algolia" />
+  🌱 Atualmente estudando: React e TypeScript
+  
+</p>
+
+</p>
+
+---
+
+## 🧰 Ferramentas e Tecnologias
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="35" height="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript Logo" width="35" height="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS Logo" width="35" height="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5 Logo" width="35" height="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="35" height="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="35" height="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub Logo" width="35" height="35"/>
 </div>
 
-<p>
-  <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-    <img align="center" alt="gabriel-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="gabriel-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="gabriel-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="gabriel-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="gabriel-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="gabriel-Bootstrap" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="gabriel-TypeScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img align="center" alt="gabriel-Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="gabriel-GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg">
-  </div>
-</p>
+
+---
+
+## 📈 Minhas Estatísticas 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldotech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldotech&layout=compact&langs_count=6&theme=algolia" />
+</div>
