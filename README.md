@@ -23,6 +23,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub Logo" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/wordpress.svg" alt="WordPress Logo" width="35" height="35" fill="#fff">
 </div>
 
 
