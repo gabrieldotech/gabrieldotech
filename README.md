@@ -8,13 +8,6 @@
   🌱 Atualmente estudando React e TypeScript
 
 🎯 Trabalhando em projetos pessoais para aplicar e expandir meus conhecimentos técnicos
-
-  
-
-  
-  
-</p>
-
 </p>
 
 ---
