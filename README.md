@@ -16,14 +16,14 @@
 ## 🧰 Ferramentas e Tecnologias
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="35" height="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript Logo" width="35" height="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS Logo" width="35" height="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5 Logo" width="35" height="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="35" height="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="35" height="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub Logo" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript Logo" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS Logo" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5 Logo" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub Logo" width="35" height="35"/>
 </div>
 
 
