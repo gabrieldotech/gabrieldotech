@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ongabrielramos/)](https://www.linkedin.com/in/ongabrielramos/) [![Gmail Badge](https://img.shields.io/badge/-gabrieldotech@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieldotech@gmail.com)](mailto:gabrieldotech@gmail.com)
 
 <p align="left">
-🤓 Desenvolvedor apaixonado por tecnologia e atuando como Instrutor de Informática. Sempre busco as melhores práticas para desenvolver projetos e melhorar a experiências dos meus alunos
 
   🌱 Atualmente estudando React e TypeScript
 
