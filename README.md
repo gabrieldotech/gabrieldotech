@@ -1,34 +1,24 @@
-## <h1>Olá, eu sou o Gabriel 👋</h1>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=gabrieldotech&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Estatísticas do GitHub do Gabriel">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ongabrielramos/)](https://www.linkedin.com/in/ongabrielramos/) [![Gmail Badge](https://img.shields.io/badge/-gabrieldotech@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieldotech@gmail.com)](mailto:gabrieldotech@gmail.com)
+### Olá 👋
 
-<p align="left">
+<img src="https://img.shields.io/static/v1?label=Overview&message=GABRIELRAMOS&color=783c00&style=for-the-badge&logo=GitHub" alt="Static GitHub - Gabriel Ramos">
 
-  🌱 Atualmente estudando React e TypeScript
+<p>
+Me chamo Gabriel, sou desenvolvedor Web e estudante de <b>Análise e Desenvolvimento de Sistemas</b> na Universidade Brazcubas.
+<br/> 
+<br/>
 
-🎯 Trabalhando em projetos pessoais para aplicar e expandir meus conhecimentos técnicos
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
 </p>
-
----
-
-## 🧰 Ferramentas e Tecnologias
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="35" height="35"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript Logo" width="35" height="35"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS Logo" width="35" height="35"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5 Logo" width="35" height="35"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="35" height="35"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" width="35" height="35"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="35" height="35"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub Logo" width="35" height="35"/>
-</div>
-
-
----
-
-## 📈 Minhas Estatísticas 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldotech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldotech&layout=compact&langs_count=6&theme=algolia" />
-</div>
